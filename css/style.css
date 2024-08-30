@@ -344,7 +344,7 @@
   top: 100%;
   left: 0;
   right: 0;
-  z-index: 10;
+  z-index: 90;
   background: #F8F6F7;
   border: 1px solid #CFCDCE;
   border-top: none;
